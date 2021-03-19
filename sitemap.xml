@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://korozas.top/2021/03/19/papername/</loc>
+    
+    <lastmod>2021-03-19</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://korozas.top/about/index.html</loc>
     
     <lastmod>2021-01-29</lastmod>
@@ -32,7 +39,7 @@
 
   <url>
     <loc>http://korozas.top/</loc>
-    <lastmod>2021-02-21</lastmod>
+    <lastmod>2021-03-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
