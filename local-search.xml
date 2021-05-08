@@ -1,39 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Korozas `s blog</title>
+<search>
   
   
-  <link href="http://korozas.top/atom.xml" rel="self"/>
-  
-  <link href="http://korozas.top/"/>
-  <updated>2021-05-08T11:20:20.653Z</updated>
-  <id>http://korozas.top/</id>
-  
-  <author>
-    <name>korozas</name>
-    
-  </author>
-  
-  <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
     <title>First Article《被讨厌的勇气》</title>
-    <link href="http://korozas.top/2021/05/07/First-Article/"/>
-    <id>http://korozas.top/2021/05/07/First-Article/</id>
-    <published>2021-05-07T11:46:36.000Z</published>
-    <updated>2021-05-08T11:20:20.653Z</updated>
+    <link href="/2021/05/07/First-Article/"/>
+    <url>/2021/05/07/First-Article/</url>
     
     <content type="html"><![CDATA[<p>最近刚读的一本，岸见一郎和古贺史健 写的《被讨厌的勇气》。只看书名我就被击到了。 这么多年，我一直体会着不被欢迎–自己困惑的这样怪圈里，我总是不明白明明自己待人和善热心助人，但是似乎没办法跟谁深交，似乎总是被讨厌被落单，因为害怕落单，渐渐 的不再参与聚会这些活动，甚至开始有点社恐，我有多害怕被讨厌，这本书带给我的冲击力就有多大。 我现在依然还是不受欢迎，但是我懂得了别人对待我的态度是别人的课题，是别人的选择，我无法决定和改变，我能做的只有接受这些无法改变的事实，改变自己能改变的，现在内心平静了很多，往后的日子还是需要慢慢修炼。我现在把这本书的语录做成了练字帖，每天练字的时候提醒自己，修炼自己。 如果跟我有一样困惑的朋友，也许可以试试看这本书。</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;最近刚读的一本，岸见一郎和古贺史健 写的《被讨厌的勇气》。只看书名我就被击到了。 这么多年，我一直体会着不被欢迎–自己困惑的这样怪圈里，我总是不明白明明自己待人和善热心助人，但是似乎没办法跟谁深交，似乎总是被讨厌被落单，因为害怕落单，渐渐 的不再参与聚会这些活动，甚至开始有</summary>
-      
-    
     
     
     
   </entry>
   
-</feed>
+  
+  
+  
+</search>
